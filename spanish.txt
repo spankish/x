@@ -1,0 +1,2161 @@
+the friend	el amigo
+the bank	el banco
+the bathroom	el baño
+the car	el carro
+the cat	el gato
+the brother	el hermano
+the book	el libro
+the boy	el muchacho
+the little boy, the child	el niño
+the dog	el perro
+the telephone	el teléfono
+the wine	el vino
+the animal	el animal
+the coffee	el café
+the doctor	el doctor
+the man	el hombre
+the hospital	el hospital
+the hotel	el hotel
+the tomato	el tomate
+the train	el tren
+the climate	el clima
+the day	el día
+the drama	el drama
+the language	el idioma
+the map	el mapa
+the planet	el planeta
+the poem	el poema
+the problem	el problema
+the program	el programa
+the system	el sistema
+the blouse	la blusa
+the bag	la bolsa
+the bed	la cama
+the house	la casa
+the beer	la cerveza
+the meal	la comida
+the sister	la hermana
+the church	la iglesia
+the lamp	la lámpara
+the table	la mesa
+the girl	la muchacha
+the little girl	la niña
+the person	la persona
+the plant	la planta
+the chair	la silla
+the store	la tienda
+the window	la ventana
+the song	la canción
+the conversation	la conversación
+the invitation	la invitación
+the lesson	la lección
+the illusion	la ilusión
+the television	la televisión
+the city	la ciudad
+the truth	la verdad
+the friendship	la amistad
+the attitude	la actitud
+the photograph	la foto
+the hand	la mano
+the radio	la radio
+the class	la clase
+the flower	la flor
+the light	la luz
+the woman	la mujer
+the skin	la piel
+the luck	la suerte
+the (male) artist, the (female) artist	el artista, la artista
+the (male) dentist, the (female) dentist	el dentista, la dentista
+the (male) pianist, the (female) pianist	el pianista, la pianista
+the (male) cabdriver, the (female) cabdriver	el taxista, la taxista
+the (male) singer, the (female) singer	el cantante, la cantante
+the (male) student, the (female) student	el estudiante, la estudiante
+the (male) manager, the (female) manager	el gerente, la gerente
+the (male) president, the (female) president	el presidente, la presidente
+a (male) friend	un amigo
+a bathroom	un baño
+a car	un carro
+a mirror	un espejo
+a cat	un gato
+a garden	un jardín
+a museum	un museo
+a (male) pianist	un pianista
+an armchair	un sillón
+a ticket	un tiquete
+a (female) friend	una amiga
+a library	una biblioteca
+a city	una ciudad
+an idea	una idea
+a bookstore	una librería
+a suitcase	una maleta
+a woman	una mujer
+a page	una página
+a person (male or female)	una persona
+a pen	una pluma
+some boats	unos barcos
+some cats	unos gatos
+some languages	unos idiomas
+some books	unos libros
+some (female) artists	unas artistas
+some houses	unas casas
+some conversations	unas conversaciones
+some flowers	unas flores
+the white book	el libro blanco
+the black cat	el gato negro
+the red car	el carro rojo
+the nice boy	el muchacho simpático
+the handsome man	el hombre hermoso
+the white house	la casa blanca
+the black jacket	la chaqueta negra
+the red lamp	la lámpara roja
+the nice girl	la muchacha simpática
+the beautiful woman	la mujer hermosa
+the colors	los colores
+yellow	amarillo
+orange	anaranjado
+blue	azul
+white	blanco
+gray	gris
+brown	marrón, pardo
+purple	morado
+brown-skinned	moreno
+black	negro
+red	rojo
+pink	rosado
+green	verde
+agreeable, pleasant	agradable
+happy	alegre
+inexpensive	barato
+expensive	caro
+weak	débil
+slender	delgado
+difficult	difícil
+great, terrific	estupendo
+excellent	excelente
+easy	fácil
+fantastic	fantástico
+ugly	feo
+thin	flaco
+fragile	frágil
+strong	fuerte
+fat	gordo
+big	grande
+handsome, beautiful	guapo
+beautiful	hermoso
+horrible	horrible
+intelligent	inteligente
+interesting	interesante
+young	joven
+marvelous, wonderful	maravilloso
+little, small	pequeño
+poor	pobre
+rich	rico
+nice	simpático
+sincere	sincero
+stingy	tacaño
+typical	típico
+sad	triste
+old	viejo
+how?	¿cómo?
+where?	¿dónde?
+who?	¿quién?
+here	aquí, acá
+there	allí, allá
+happy (merry)	alegre
+pretty	bonito
+good	bueno
+tired	cansado
+happy (contented)	contento
+delicious	delicioso
+sick	enfermo
+angry	enojado
+beautiful, handsome	guapo; hermoso
+the bedroom	la alcoba
+the rug	la alfombra
+the ballpoint pen	el bolígrafo
+the kitchen	la cocina
+the collection	la colección
+the dining room	el comedor
+the curtain	la cortina
+the notebook	el cuaderno
+the mirror	el espejo
+the study	el estudio
+the stove	la estufa
+the cabinet	el gabinete
+the oven	el horno
+the pencil	el lápiz
+the wood	la madera
+the refrigerator	la nevera
+the wall	la pared
+the yard	el patio
+the living room	la sala
+the easy chair	el sillón
+the entryway	el vestíbulo
+the video	el video
+ample	amplio
+navy blue	azul marino
+comfortable	cómodo
+fine, delicate	fino
+thick	grueso
+clean	limpio
+my (sing., pl.)	mi, mis
+private	privado
+simple	sencillo
+all	todo
+enough	bastante
+still	todavía
+How?	¿Cómo?
+Where?	¿Dónde?
+Who?	¿Quién? (sing.), ¿Quiénes? (pl.)
+What?	¿Qué?
+Which, which one? Which ones?	¿Cuál? (sing.), ¿Cuáles? (pl.)
+Why?	¿Por qué?
+How much?	¿Cuánto?
+How many?	¿Cuántos?, ¿Cuántas?
+When?	¿Cuándo?
+the days of the week	los días de la semana
+Monday, on Monday	el lunes
+Tuesday, on Tuesday	el martes
+Wednesday, on Wednesday	el miércoles
+Thursday, on Thursday	el jueves
+Friday, on Friday	el viernes
+Saturday, on Saturday	el sábado
+Sunday, on Sunday	el domingo
+Mondays, on Mondays	los lunes
+Tuesdays, on Tuesdays	los martes
+Wednesdays, on Wednesdays	los miércoles
+Thursdays, on Thursdays	los jueves
+Fridays, on Fridays	los viernes
+Saturdays, on Saturdays	los sábados
+Sundays, on Sundays	los domingos
+the months	los meses
+January	enero
+February	febrero
+March	marzo
+April	abril
+May	mayo
+June	junio
+July	julio
+August	agosto
+September	septiembre
+October	octubre
+November	noviembre
+December	diciembre
+the seasons	las estaciones
+the summer	el verano
+the autumn, the fall	el otoño
+the winter	el invierno
+the spring(time)	la primavera
+parts of the day	partes del día
+the morning	la mañana
+the afternoon	la tarde
+the night, the evening	la noche
+town	el pueblo
+serious	serio
+old, ancient	antiguo
+an ancient people of Mexico who disappeared around 600 A.D.	los Olmecas
+archeologist	la arqueóloga
+politician	el político
+relaxing	relajante
+from Monday through Friday	de lunes a viernes
+during	durante
+the year	el año
+the tree	el árbol
+the elevator	el ascensor
+the airplane	el avión
+the bus	el bus
+the countryside	el campo
+the room	el cuarto
+the birthday	el cumpleaños
+the money	el dinero
+the building	el edificio
+the baggage	el equipaje
+the home	el hogar
+the garden	el jardín
+the message	el mensaje
+the month	el mes
+the child	el niño
+the country	el país
+the paper	el papel
+the park	el parque
+the newspaper	el periódico
+the floor	el piso
+the price	el precio
+the noise	el ruido
+the classroom	el salón
+the place	el sitio
+the dream	el sueño
+the theater	el teatro
+the theme	el tema
+the trip	el viaje
+the avenue	la avenida
+the library	la biblioteca
+the street	la calle
+the shirt	la camisa
+the letter	la carta
+the check, the bill	la cuenta
+the shower	la ducha
+the entrance	la entrada
+the stairs	la escalera
+the school	la escuela
+the party	la fiesta
+the sentence	la frase
+the people	la gente
+the war	la guerra
+the leaf	la hoja
+the bookstore	la librería
+the key	la llave
+the medicine	la medicina
+the music	la música
+the play	la obra
+the page	la página
+the word	la palabra
+the beach	la playa
+the question	la pregunta
+the door	la puerta
+the exit	la salida
+the health	la salud
+the week	la semana
+the homework	la tarea
+the postcard	la tarjeta
+tall	alto
+lax	flojo
+kind	amable
+amusing	gracioso
+friendly	amistoso
+wide	ancho
+low, short (in height)	bajo
+affectionate	cariñoso
+blind	ciego
+short (in length)	corto
+sweet	dulce
+hard	duro
+elegant	elegante
+exciting	emocionante
+special	especial
+narrow	estrecho
+faithful	fiel
+deep	hondo
+long	largo
+slow	lento
+free	libre
+new	nuevo
+proud	orgulloso
+dangerous	peligroso
+heavy, dull	pesado
+rapid, fast	rápido
+strange	raro
+deaf	sordo
+soft	suave
+tranquil	tranquilo
+while	mientras
+or	o
+but	pero
+because	porque
+if	si
+and	y
+the movies (in general)	el cine
+the film	la película
+funny	cómico(a)
+poverty	la pobreza
+judge	el jurado
+excited	emocionado
+award, prize	el premio
+0, 1, 2, 3	cero, uno, dos, tres
+4, 5, 6	cuatro, cinco, seis
+7, 8, 9	siete, ocho, nueve
+10, 11, 12	diez, once, doce
+13, 14, 15	trece, catorce, quince
+16, 17, 18	dieciséis, diecisiete, dieciocho
+19, 20, 21	diecinueve, veinte, veintiuno
+22, 23, 24	veintidós, veintitrés, veinticuatro
+25, 26, 27	veinticinco, veintiséis, veintisiete
+28, 29, 30	veintiocho, veintinueve, treinta
+31, 32, 33	treinta y uno, treinta y dos, treinta y tres
+40, 50, 60	cuarenta, cincuenta, sesenta
+70, 80, 90	setenta, ochenta, noventa
+21 years	veintiún años
+31 books	treinta y un libros
+51 cats	cincuenta y un gatos
+61 men	sesenta y un hombres
+91 friends	noventa y un amigos
+41 women	cuarenta y una mujeres
+71 girls	setenta y una muchachas
+81 friends	ochenta y una amigas
+100	cien
+101	ciento uno
+150	ciento cincuenta
+199	ciento noventa y nueve
+200	doscientos
+300	trescientos
+400	cuatrocientos
+500	quinientos
+600	seiscientos
+700	setecientos
+800	ochocientos
+900	novecientos
+1.000	mil
+1.000.000	un millón (de)
+2.000.000	dos millones (de)
+first	primero
+second	segundo
+third	tercero
+fourth	cuarto
+fifth	quinto
+sixth	sexto
+seventh	séptimo
+eighth	octavo
+ninth	noveno
+tenth	décimo
+What hour is it? What time is it?	¿Qué hora es?
+It is one o’clock	Es la una
+It is two o’clock	Son las dos
+It is three o’clock	Son las tres
+It is four o’clock	Son las cuatro
+(of the) morning, A.M	de la mañana
+(of the) afternoon, P.M	de la tarde
+(of the) night, P.M	de la noche
+It is two o’clock in the morning	Son las dos de la mañana
+It is one o’clock in the afternoon	Es la una de la tarde
+It is eight o’clock at night	Son las ocho de la noche
+It’s exactly five o’clock	Son las cinco exactamente
+It’s ten o’clock sharp	Son las diez en punto
+It’s about one o’clock	Es a eso de la una
+It’s one o’clock, more or less	Es la una, más o menos
+It is 1:20 (It is one o’clock plus twenty minutes)	Es la una y veinte
+It is 5:10 (It is five o’clock plus ten minutes)	Son las cinco y diez
+It is 2:05 (It is two o’clock plus five minutes)	Son las dos y cinco
+It is 3:15 (It is three o’clock plus fifteen minutes)	Son las tres y quince
+It is 6:15 (It is six o’clock plus a quarter hour)	Son las seis y cuarto
+It is 9:30 (It is nine o’clock plus thirty minutes)	Son las nueve y treinta
+It is 8:30 (It is eight o’clock plus a half hour)	Son las ocho y media
+It is 2:50 (It is three o’clock minus ten minutes)	Son las tres menos diez
+It is 10:55 (It is eleven o’clock minus five minutes)	Son las once menos cinco
+It is 8:45 (It is nine o’clock minus a quarter hour)	Son las nueve menos cuarto
+It is 11:45 (It is twelve o’clock minus fifteen minutes)	Son las doce menos quince
+Five (minutes) to three (o’clock)	Cinco para las tres
+Twenty-five (minutes) to two (o’clock)	Veinticinco para las dos
+Fifteen (minutes) to six (o’clock)	Quince para las seis
+At what hour? At what time?	¿A qué hora?
+At one o’clock	A la una
+At two o’clock	A las dos
+At three o’clock	A las tres
+At 4:10	A las cuatro y diez
+At 5:15	A las cinco y cuarto
+At 6:05	A las seis y cinco
+At 7:03	A las siete y tres
+At 8:30	A las ocho y media
+At 8:45	A las nueve menos quince
+At 9:40	A las diez menos veinte
+At 10:35	A las once menos veinticinco
+At 12:50	A la una menos diez
+full	lleno
+the atmosphere	el ambiente
+holiday	un día de fiesta
+a drink	una bebida
+small appetizers, Spanish style	tapas
+chicken, meat, fish	pollo, carne, pescado
+potatoes, vegetables, salad, dessert	sopa, papas, vegetales, ensalada, postre
+everything	todo
+the water	el agua
+the breakfast	el desayuno
+the lunch	el almuerzo
+the tax	el impuesto
+the waiter	el camarero
+the tablecloth	el mantel
+the menu	la carta
+the supper	la cena
+the check	el cheque
+the plate	el plato
+the tip	la propina
+the napkin	la servilleta
+the credit card	la tarjeta de crédito
+the spoon	la cuchara
+the knife	el cuchillo
+the fork	el tenedor
+the glass	el vaso
+warm, hot	caliente
+spicy	picante
+fresh	fresco
+healthy	sano
+cold	frío
+dry	seco
+dirty	sucio
+empty	vacío
+It is midday / It is noon	Es mediodía
+It is midnight	Es medianoche
+It is early	Es temprano
+It is late	Es tarde
+one time, once	una vez
+double	doble
+two times, twice	dos veces
+triple	triple
+three times	tres veces
+(a) half	la mitad
+the pillow	la almohada
+the vacuum cleaner	la aspiradora
+a mess	un desorden
+the broom	la escoba
+the sponge	la esponja
+the ice cream	el helado
+the dishwasher	el lavaplatos
+the stain	la mancha
+the work, the job	el oficio
+the dust	el polvo
+the clothes	la ropa
+the sheet	la sábana
+at the beginning	al principio
+it’s another story	es otro cuento
+at least	por lo menos
+to sing	cantar
+to dance	bailar
+to go down, to descend	bajar
+to walk	caminar
+to cook	cocinar
+to buy	comprar
+to answer	contestar
+to rest	descansar
+to enter (in)	entrar (en)
+to listen to	escuchar
+to study	estudiar
+to speak	hablar
+to clean	limpiar
+to arrive	llegar
+to look at	mirar
+to swim	nadar
+to practice	practicar
+to return	regresar
+to work	trabajar
+to travel	viajar
+to eat	comer
+to learn	aprender
+to drink	beber
+to understand	comprender
+to run	correr
+to read	leer
+to put in	meter
+to turn on	prender
+to break	romper
+to sell	vender
+to live	vivir
+to open	abrir
+to share	compartir
+to decide	decidir
+to describe	describir
+to discuss	discutir
+to write	escribir
+to receive	recibir
+to go up, to ascend	subir
+to suffer	sufrir
+should, ought to, must (plus infinitive), to owe	deber
+to win, to earn	ganar
+to carry, to wear	llevar
+to pass (by), to happen, to spend (time)	pasar
+to touch, to play (an instrument)	tocar
+to take, to have (something to drink), to have (breakfast, lunch, dinner)	tomar
+period of time	la época
+to be sure	estar seguro(a)
+to breathe	respirar
+to be three miles from	estar a tres millas de
+healthy, healthful	saludable
+afterward	después
+to wash	lavar
+to be located	estar ubicado(a)
+to close	cerrar
+to begin	empezar
+to think	pensar
+to lunch	almorzar
+to find	encontrar
+to remember	recordar
+to play, to play (a sport)	jugar
+to lose	perder
+to want	querer
+to have	tener
+to return (something), to give back	devolver
+to be able, can, may	poder
+to do, to make	hacer
+to put	poner
+to know (a fact), to know how	saber
+to see	ver
+to lie	mentir
+to prefer	preferir
+to come	venir
+to ask for, to request	pedir
+to repeat	repetir
+to follow, to continue	seguir
+to serve	servir
+to smile	sonreír
+to sleep	dormir
+to hear	oír
+to leave, to exit, to go out	salir
+to speak by (on the) phone	hablar por teléfono
+to arrive on time	llegar a tiempo
+to think about	pensar en
+to be impossible	ser imposible
+to be safe	ser seguro
+to get on the train	subir al tren
+to take a seat	tomar asiento
+the rush hour	la hora pico
+the crowd	la muchedumbre
+the basement	el sótano
+near me	cerca de mí
+at my side	a mi lado
+at times	a veces
+fortunately	afortunadamente
+completely	completamente
+again	de nuevo
+after (doing something)	después de + infinitive
+free (in cost)	gratis
+toward	hacia
+luckily	menos mal
+better	major
+to accept	aceptar
+to turn off	apagar
+to arrange, to fix	arreglar
+to change	cambiar
+to celebrate	celebrar
+to cross	cruzar
+to draw	dibujar
+to enjoy	disfrutar
+to turn, to fold	doblar
+to explain	explicar
+to sign	firmar
+to cry	llorar
+to drive	manejar
+to dial, to mark	marcar
+to need	necesitar
+to stop	parar
+to paint	pintar
+to prepare	preparar
+to review	repasar
+to finish	terminar
+to throw	tirar
+to use	usar
+to be years old	tener años
+to be hot	tener calor
+to be jealous	tener celos
+to be careful	tener cuidado
+to be at fault	tener la culpa
+to have a (head)ache, (stomach)ache, etc.	tener dolor de (cabeza, estómago, etc.)
+to be envious	tener envidia
+to be successful, to have success	tener éxito
+to be cold	tener frío
+to want, to desire	tener ganas de
+to be hungry	tener hambre
+to have the floor	tener la palabra
+to take place	tener lugar
+to be afraid of	tener miedo de
+to be in a hurry	tener prisa
+to have to do with	tener que ver con
+to be in a rage, to be very angry	tener rabia
+to be right	tener razón
+to be thirsty	tener sed
+to be sleepy	tener sueño
+to be lucky, to have luck	tener suerte
+to be ashamed	tener vergüenza
+to have just (done something)	acabar de + infinitive
+to stop (doing something)	dejar de + infinitive
+to have to (do something)	tener que + infinitive
+to try to (do something)	tratar de + infinitive
+to do (something) again	volver a + infinitive
+parts of the body	las partes del cuerpo
+the joint	la articulación
+the beard	la barba
+the chin	la barbilla
+the mouth	la boca
+the arm	el brazo
+the hair	el cabello
+the head	la cabeza
+the hip	la cadera
+the face	la cara
+the eyebrow	la ceja
+the waist	la cintura
+the elbow	el codo
+the spine	la columna
+the neck	el cuello
+the finger	el dedo
+the toe	el dedo del pie
+the tooth	el diente
+the gums	las encías
+the back	la espalda
+the forehead	la frente
+the throat	la garganta
+the shoulder	el hombro
+the tongue	la lengua
+the cheek	la mejilla
+the wrist	la muñeca
+the thigh	el muslo
+the buttocks	las nalgas
+the nose	la nariz
+the nape	la nuca
+the inner ear	el oído
+the eye	el ojo
+the ear	la oreja
+the eyelid	el párpado
+the chest	el pecho
+the eyelash	la pestaña
+the foot	el pie
+the leg	la pierna
+the thumb	el pulgar
+the jaw	la quijada
+the knee	la rodilla
+the breasts	los senos
+the heel	el talón
+the ankle	el tobillo
+the nail	la uña
+inside the body	dentro del cuerpo
+the tonsils	las amígdalas
+the artery	la arteria
+the brain	el cerebro
+the heart	el corazón
+the ribs	las costillas
+the stomach	el estómago
+the liver	el hígado
+the bone	el hueso
+the muscle	el músculo
+the lung	el pulmón
+the kidney	el riñón
+the blood	la sangre
+the tendon	el tendón
+the veins	las venas
+the great-grandparents	los bisabuelos
+the great-grandfather	el bisabuelo
+the great-grandmother	la bisabuela
+the grandparents	los abuelos
+the grandfather	el abuelo
+the grandmother	la abuela
+the parents	los padres
+the father	el padre
+the mother	la madre
+the relatives	los parientes
+the (male) relative	el pariente
+the (female) relative	la pariente
+the uncle, the aunt	el tío, la tía
+the husband, the wife	el esposo / el marido, la esposa
+the son, the daughter	el hijo, la hija
+the brother, the sister	el hermano, la hermana
+the grandson, the granddaughter	el nieto, la nieta
+the (male) cousin, the (female) cousin	el primo, la prima
+the nephew, the niece	el sobrino, la sobrina
+the father-in-law, the mother-in-law	el suegro, la suegra
+the son-in-law, the daughter-in-law	el yerno, la nuera
+the brother-in-law, the sister-in-law	el cuñado, la cuñada
+the stepfather, the stepmother	el padrastro, la madrastra
+the godfather, the godmother	el padrino, la madrina
+the godson, the goddaughter	el ahijado, la ahijada
+to appear	aparecer
+to fit	caber
+to confess	confesar
+to disappear	desaparecer
+to emerge	emerger
+to choose	escoger
+to achieve, to succeed in (+ infinitive)	lograr
+to fill	llenar
+upon listening, upon hearing	al escuchar
+to give advice	dar consejos
+to be nervous, fidgety	estar inquieto
+to be calm	estar tranquilo
+it seems	parece
+it continues in this way	sigue así
+the last name, the surname	el apellido
+the appointment	la cita
+the doctor’s office	el consultorio
+the schedule	el horario
+the phone call	la llamada
+the majority	la mayoría
+the style, the fashion	la moda
+the name	el nombre
+the patient	el paciente
+the character	el personaje
+the watch	el reloj
+the corner	el rincón
+the waiting room	la sala de espera
+the secretary	la secretaria
+medical insurance	los seguros medicos
+common	común
+broken	roto
+alone	solo
+frequently	a menudo
+at the end	al final
+before (doing something)	antes de + infinitive
+like any (whatever) other	como cualquier otra
+right away	en seguida
+meanwhile	mientras tanto
+at last	por fin
+for a little while	por un rato
+the Spanish restaurant, the Spanish meal	el restaurante español, la comida española
+the English man, the English woman	el hombre ingles, la mujer inglesa
+the French wine, the French beer	el vino francés, la cerveza francesa
+the German writer (m.), the German writer (f.)	el escritor alemán, la escritora alemana
+the Japanese boy, the Japanese girl	el muchacho japonés, la muchacha japonesa
+the Dutch child (m.), the Dutch child (f.)	el niño holandés, la niña holandesa
+the Cuban man, the Cuban woman	el hombre cubano, la mujer cubana
+the Chilean boy, the Chilean girl	el muchacho chileno, la muchacha chilena
+the North American child (m.), the North American child (f.)	el niño norteamericano, la niña norteamericana
+the Swiss friend (m.), the Swiss friend (f.)	el amigo suizo, la amiga suiza
+the Canadian man, the Canadian woman	el hombre canadiense, la mujer canadiense
+the Hindu child (m.), the Hindu child (f.)	el niño hindú, la niña hindú
+the Israeli man, the Israeli woman	el hombre israelí, la mujer israelí
+Germany, German	Alemania, alemán
+Saudi Arabia, Saudi	Arabia Saudita, saudí / saudita
+Argentina, Argentinian	(la) Argentina, argentino
+Austria, Austrian	Austria, austriaco
+Belgium, Belgian	Bélgica, belga
+Bolivia, Bolivian	Bolivia, boliviano
+Brazil, Brazilian	(el) Brasil, brasileño
+Canada, Canadian	(el) Canadá, canadiense
+Chile, Chilean	Chile, chileno
+China, Chinese	China, chino
+Colombia, Colombian	Colombia, colombiano
+Korea, Korean	Corea, coreano
+Costa Rica, Costa Rican	Costa Rica, costarricense
+Cuba, Cuban	Cuba, cubano
+Denmark, Danish	Dinamarca, danés
+Ecuador, Ecuadorian	(el) Ecuador, ecuatoriano
+Egypt, Egyptian	Egipto, egipcio
+Scotland, Scottish	Escocia, escocés
+Spain, Spanish	España, español
+USA, American	(los) Estados Unidos, norteamericano / estadounidense
+Finland, Finnish	Finlandia, finlandés
+France, French	Francia, francés
+Greece, Greek	Grecia, griego
+Guatemala, Guatemalan	Guatemala, guatemalteco
+Haiti, Haitian	Haití, haitiano
+The Netherlands, Dutch	Holanda, holandés
+Honduras, Honduran	Honduras, hondureño
+Hungary, Hungarian	Hungría, húngaro
+India, Indian	(la) India, hindú
+England, English	Inglaterra, inglés
+Iraq, Iraqi	Irak / Iraq, iraquí
+Iran, Iranian	Irán, iraní
+Ireland, Irish	Irlanda, irlandés
+Israel, Israeli	Israel, israelí
+Italy, Italian	Italia, italiano
+Jamaica, Jamaican	Jamaica, jamaiquino
+Japan, Japanese	Japón, japonés
+Morocco, Moroccan	Marrueco, marroquí
+Mexico, Mexican	México, mexicano
+Nicaragua, Nicaraguan	Nicaragua, nicaragüense
+Norway, Norwegian	Noruega, noruego
+New Zealand, New Zealander	Nueva Zelanda, neocelandés
+Pakistan, Pakistani	Pakistán, pakistaní
+Panama, Panamanian	(el) Panamá, panameño
+Paraguay, Paraguayan	(el) Paraguay, paraguayo
+Peru, Peruvian	(el) Perú, peruano
+Poland, Polish	Polonia, polaco
+Portugal, Portuguese	Portugal, portugués
+Puerto Rico, Puerto Rican	Puerto Rico, puertorriqueño
+Dominican Republic, Dominican	(la) República dominicano, Dominicana
+Russia, Russian	Rusia, ruso
+El Salvador, El Salvadorean	El Salvador, salvadoreño
+Syria, Syrian	Siria, sirio
+Sudan, Sudanese	Sudán, sudanés
+Sweden, Swedish	Suecia, sueco
+Switzerland, Swiss	(la) Suiza, suizo
+Thailand, Thai	Tailandia, tailandés
+Taiwan, Taiwanese	Taiwán, taiwanés
+Turkey, Turkish	Turquía, turco
+Uruguay, Uruguayan	(el) Uruguay, uruguayo
+Venezuela, Venezuelan	Venezuela, venezolano
+Vietnam, Vietnamese	Vietnám, vietnamita
+Yemen, Yemeni	Yemen, yemení
+Africa, African	África, africano
+Antarctic, Antarctic	Antártica, antártico
+Arctic, Arctic	el Ártico, ártico
+Asia, Asian	Asia, asiático
+Australia, Australian	Australia, australiano
+Europe, European	Europa, europeo
+North America, North American	Norteamérica, norteamericano
+South America, South American	Sudamérica, sudamericano
+bad	malo
+a lot of, much, many	mucho
+a little bit, a few, not much, not many	poco
+both	ambos
+each	cada
+several	varios
+some	alguno
+other, another	otro
+all, every	todo
+next	próximo
+only	único
+last, final	ultimo
+her former boyfriend	su antiguo novio
+an ancient civilization	una civilización antigua
+a certain day	cierto día
+a sure thing	una cosa cierta
+the great man, the great woman	el gran hombre, la gran mujer
+the big man, the big woman	el hombre grande, la mujer grande
+the poor, unfortunate little boy	el pobre niño
+the poor man (without money)	el hombre pobre
+the same book, the same idea	el mismo libro, la misma idea
+the professor himself	el profesor mismo
+the longtime friends	los viejos amigos
+the old friends (in years)	los amigos viejos
+the best (sing.)	el mejor, la major
+the best (pl.)	los mejores, las mejores
+worse	peor
+the worst (sing.)	el peor, la peor
+the worst (pl.)	los peores, las peores
+younger	menor
+the youngest (sing.)	el menor, la menor
+the youngest (pl.)	los menores, las menores
+more + noun + than	más + nombre + que
+less + noun + than	menos + nombre + que
+as much + noun + as, as many + noun + as	tanto + nombre + como
+more than	más que
+less than	menos que
+as much as	tanto como
+clear, clearly	claro, claramente
+rapid, rapidly	rápido, rápidamente
+slow, slowly	lento, lentamente
+frank, frankly	franco, francamente
+honest, honestly	honesto, honestamente
+intimate, intimately	íntimo, íntimamente
+last, lastly	último, últimamente
+happy, happily	alegre, alegremente
+sad, sadly	triste, tristemente
+easy, easily	fácil, fácilmente
+frequent, frequently	frecuente, frecuentemente
+a lot	mucho
+so much	tanto
+a little bit	poco
+almost	casi
+more	más
+less	menos
+too much	demasiado
+well	bien
+badly	mal
+sometimes	a veces
+now	ahora
+right now	ahora mismo
+always	siempre
+still, yet; no, not yet	todavía
+already	ya
+no longer	ya no
+early	temprano
+late	tarde
+here, there	aquí, allí
+nearby	cerca
+up, up there	en lo alto
+far off	lejos
+in front	adelante
+in back, at the bottom	al fondo
+in back	atrás
+up, upstairs	arriba
+down, downstairs	abajo
+inside	adentro
+outside	afuera
+to the right	a la derecha
+to the left	a la izquierda
+straight ahead	derecho, recto
+with care (instead of carefully)	con cuidado
+without care (instead of carelessly)	sin cuidado
+with affection (instead of affectionately)	con cariño
+with difficulty	con dificultad
+without difficulty	sin dificultad
+with intelligence (instead of intelligently)	con inteligencia
+upon entering	al entrar
+to imagine	imaginar
+the host / the hostess	el anfitrión / la anfitriona
+the snack	el bocadillo
+the bottle	la botella
+the breeze	la brisa
+the acquaintance	la conocida
+the appetizer	el entremés
+the guest	el invitado
+the words (of a song)	la letra
+the couple	la pareja
+the soda	la soda, la gaseosa
+the candle	la vela
+the closet, the wardrobe	el vestuario
+about	acerca de
+on top of	encima de
+the wrong hour	la hora equivocada
+with themselves	consigo
+loudly	en alto volumen
+nothing	nada
+no one	nadie
+never	nunca
+not one	ninguno
+something	algo
+someone	alguien
+neither . . . nor . . .	no... ni... ni...
+not more than (with numbers)	no más que
+neither, either	tampoco
+not . . . either	ni... tampoco
+but rather	sino
+you’re welcome, think nothing of it	de nada, por nada
+you’re welcome, don’t mention it	no hay de que
+not now	ahora no
+not yet	todavía no
+not even	ni siquiera
+without + gerund + anything	sin + infinitive + nada
+it’s not such a big deal	no es para tanto
+almost never, hardly ever	casi nunca
+more than anything	más que nada
+nothing more, that’s all	nada más
+at, to	a
+with	con
+of, from, about	de
+in, on	en
+for, in order to	para
+without	sin
+before	antes de
+after	después de
+instead of	en vez de
+in addition to	además de
+in spite of	a pesar de
+against	contra
+between, among	entre
+except	excepto
+according to	según
+above, on top of, about (a theme or topic)	sobre
+until	hasta
+since; from (a point of departure in place or time)	desde
+next to	al lado de
+around	alrededor de
+near	cerca de
+underneath	debajo de
+under (more figurative than debajo de)	bajo
+before, in front of (physical location)	delante de
+before, in front of, in the presence of	ante
+inside of	dentro de
+behind	detrás de
+after (in a set of expressions)	tras
+in front of, opposite, facing, across from	enfrente de, frente a
+outside of	fuera de
+close to, right next to	junto a, pegado a
+far from	lejos de
+for me	para mí
+for you	para ti
+between you and me	entre tú y yo
+except you and me	menos tú y yo
+according to you	según tú
+including me	incluso yo
+except me	salvo yo
+with me	conmigo
+with you	contigo
+with yourself, with himself, with herself, with themselves	consigo
+around here	por acá, por aquí
+around there	por allá, por allí
+for now	por ahora
+by chance	por casualidad
+usually	por lo común
+for example	por ejemplo
+therefore, for this reason	por eso
+please	por favor
+finally	por fin
+for the first time	por primera vez
+of course	por supuesto
+everywhere	por todas partes
+in the morning (imprecise time)	por la mañana
+in the afternoon	por la tarde
+in the evening	por la noche
+although	aunque
+the circus	el circo
+the colleague	el colega
+the limit	el colmo
+the rehearsal	el ensayo
+the tour	la gira
+to indicate	indicar
+the interest	el interés
+free (as in time)	libre
+the northeast	el noreste
+what is there to do	qué hay que hacer
+single	soltera
+the ticket	el tiquete
+anyway	de todos modos
+the trapeze artist	el trapecista
+the box	la caja
+the post office	el correo
+the human rights	los derechos humanos
+the judge	el / la juez
+the law	la ley
+the news	las noticias
+the bus stop	la parada
+the witness	el / la testigo
+the neighbor	el vecino
+the dawn	el alba (f.)
+the sky	el cielo
+the hill	la colina
+the desert	el desierto
+the star	la estrella
+the flood	la inundación
+the lake	el lago
+the rain	la lluvia
+the moon	la luna
+the dawn, early morning	la madrugada
+the sea	el mar
+the mountains	las montañas
+the snow	la nieve
+the clouds	las nubes
+the sunset	el ocaso
+the ocean	el océano
+the lightning	el relámpago
+the river	el río
+the sun	el sol
+the tremor	el temblor
+the storm	la tempestad
+the earthquake	el terremoto
+the earth	la tierra
+the thunder	el trueno
+the wind	el viento
+What’s the weather like?	¿Qué tiempo hace?
+The weather is good	Hace buen tiempo
+The weather is bad	Hace mal tiempo
+It’s hot	Hace calor
+It’s cold	Hace frío
+It’s cool	Hace fresco
+It’s sunny	Hace sol
+It’s windy	Hace viento
+It’s muddy	Hay lodo
+The stars are out	Hay estrellas
+The moon is out	Hay luna
+It’s foggy	Hay neblina
+It’s cloudy	Hay nubes
+It’s dusty	Hay polvo
+to look for	buscar
+to converse	converser
+to pretend	finger
+to function, to work	funcionar
+to call	llamar
+to send	mandar
+to greet	saludar
+the change	el cambio
+the computer	la computadora
+the answering machine	la contestadora
+e-mail	el correo electrónico
+the little room	el cuartito
+the deposit	el depósito
+the worker	el empleado
+the effort	el esfuerzo
+the space	el espacio
+the invoice, bill	la facture
+the printer	la impresora
+the boss	el jefe
+the fax machine	la máquina de facsimile
+the world	el mundo
+the reason	la razón
+the voice	la voz
+impressive	impresionante
+dark	oscuro
+after all	al fin y al cabo
+face to face, in person	cara a cara
+he is only twenty steps away	está a sólo veinte pasos
+the day after tomorrow	pasado mañana
+I have a lot to do	tengo mucho que hacer
+all that is necessary	todo lo necesario
+to be pleasing to	agradar
+to suit someone, to be convenient (for)	convenir
+to be painful, to hurt	doler
+to be enchanting to, to like very much	encantar
+to be lacking (something), to be missing (something)	faltar
+to fascinate, to be fascinating (to)	fascinar
+to need (something)	hacer falta
+to be important to, to matter	importar
+to be interesting (to)	interesar
+to bother, to annoy	molestar
+to seem, to appear to be	parecer
+to be left over, to remain	quedar
+to remain to be	quedar por + an infinitive
+to have more than enough of (something)	sobrar
+to be someone’s turn	tocarle a alguien
+to charge (money)	cobrar
+to relate, to tell a story, to count	contar
+to count on, to rely on	contar con
+to give	dar
+to say, to tell	decir
+to teach	enseñar
+to ask (a question)	preguntar
+to lend	prestar
+to bring	traer
+to go shopping	ir de compras
+to take a ride	pasear en el carro
+outskirts, suburbs	las afueras
+to taste, to take a taste	probar
+the area	el área (f.)
+how can I serve (help) you	en qué puedo servirles
+to recommend	recomendar
+seafood	los mariscos
+a little while	un rato
+excuse me	disculpe
+are you ready to order	están Uds. listos para ordenar
+the lobster	la langosta
+clam chowder	crema de almejas
+crab	el cangrejo
+garlic	el ajo
+shrimp	los camarones
+to pack the suitcase	arreglar la maleta
+to carry	cargar
+to dine	cenar
+to take a walk	dar una vuelta
+to await	esperar
+to delay	tardar
+the seat	el asiento
+the headphones	los audífonos
+the stewardess, flight attendant	la azafata
+the image	la imagen
+the aisle	el pasillo
+the window in a car, boat, or airplane	la ventanilla
+the flight	el vuelo
+that which, (often translated as) what	lo que
+there is a lot to do	hay mucho que hacer
+round-trip	ida y vuelta
+to embrace, to hug	abrazar
+to accompany	acompañar
+to love	amar
+to help	ayudar
+to kiss	besar
+to be acquainted with, to know (a person or place)	conocer
+to take care of	cuidar
+to leave (something or someone) behind	dejar
+to wait for	esperar
+to miss (a person or a place)	extrañar
+to yell at, to scream at	gritar
+to invite	invitar
+to carry, to carry off, to carry away; to wear	llevar
+to kill	matar
+to look at, to watch	mirar
+to love a person	querer + a + person
+to gather, to pick up	recoger
+to visit	visitar
+to embrace	abrazar
+to get off	bajarse de
+to face / overlook (the plaza)	dar a (la plaza)
+to pick up	recoger
+to jump	saltar
+to stamp	sellar
+customs	la aduana
+the welcome	la bienvenida
+the driver	el conductor
+the owner	el dueño
+the line	la fila
+the tear	la lágrima
+the suitcase	la maleta
+the register	el registro
+the smile	la sonrisa
+the fare	la tarifa
+the traveler	el viajero
+to bathe oneself	bañarse
+to dedicate oneself	dedicarse
+to defend oneself	defenderse
+to amuse oneself, to have a good time	divertirse
+to express oneself	expresarse
+to wash oneself	lavarse
+to call oneself	llamarse
+to ask oneself, to wonder	preguntarse
+to go to bed to wake oneself	acostarse
+to wake up, to wake oneself	despertarse
+to shower, to take a shower	ducharse
+to fall asleep	dormirse
+to get sick	enfermarse
+to get up, to raise oneself	levantarse
+to sit down, to seat oneself	sentarse
+to get dressed	vestirse
+to shave	afeitarse
+to brush (one’s teeth, one’s hair)	cepillarse (los dientes, el pelo)
+to put makeup on, to make up (one’s face)	maquillarse (la cara)
+to comb (one’s hair)	peinarse (el pelo)
+to put makeup on, to put (nail) polish on	pintarse (las uñas)
+to put on (clothing)	ponerse
+to take off (clothing)	quitarse
+to become happy, to be glad	alegrarse (de)
+to cheer up	animarse
+to get frightened / scared	asustarse
+to calm down	calmarse
+to get angry	enfadarse (con)
+to worry	preocuparse (de)
+to remain	quedarse
+to move (from one place to another)	mudarse
+to stand up	pararse
+to fall down	caerse
+to go away, to leave quickly	irse
+to move	moverse
+to get ready to go out, to fix oneself up	arreglarse
+to take advantage of	aprovecharse (de)
+to dare to	atreverse (a)
+to make fun of	burlarse (de)
+to become quiet	callarse
+to have breakfast	desayunarse
+to fall in love with	enamorarse (de)
+to make a mistake	equivocarse
+to trust, to have trust in	fiarse (en)
+to notice	fijarse (en)
+to hurt oneself	lastimarse
+to get along (well) with	llevarse (bien) (con)
+to get better	mejorarse
+to get involved in, to meddle	meterse (en)
+to behave oneself (well / badly)	portarse (bien / mal)
+to complain about	quejarse (de)
+to burn oneself, to get burned	quemarse
+to meet with	reunirse (con)
+to realize	darse cuenta (de)
+to meet	encontrarse (con)
+to die	morirse
+to resemble, to look like	parecerse (a)
+to laugh	reírse
+to feel (well / ill) (or any emotion or health condition)	sentirse (bien / mal)
+to help each other	ayudarse
+to know each other	conocerse
+to understand each other	entenderse
+to write to each other	escribirse
+to speak to each other	hablarse
+to love each other	quererse
+to see each other	verse
+to rush	apresurarse
+to chat	charlar
+to let	dejar
+to fill up	llenarse
+the shrimp	los camarones
+the cream	la nata
+the pastry	el pastel
+cozy	acogedor
+energetic, excited	animado
+satisfied	complacido
+thin, slim	delgado
+talkative	hablador(-a)
+busy	ocupado
+radiant	radiante
+seated	sentado
+far away	a lo lejos
+outside my window	más allá de mi ventana
+above all	sobre todo
+it is good (that)	es bueno (que)
+it is difficult (that)	es difícil (que)
+it is doubtful (that)	es dudoso (que)
+it is easy (that)	es fácil (que)
+it is impossible (that)	es imposible (que)
+it is important (that)	es importante (que)
+it is bad (that)	es malo (que)
+it is better (that)	es mejor (que)
+it is necessary (that)	es necesario (que)
+it is possible (that)	es posible (que)
+it is probable (that)	es probable (que)
+it is extremely necessary (that)	es preciso (que)
+it is a pity (that)	es una lástima (que)
+it is urgent (that)	es urgente (que)
+to be glad	alegrarse de
+to hope	esperar
+to be happy	estar contento de
+to be sad	estar triste de
+to be pleasing	gustarle a uno
+to regret	sentir
+to be afraid of, to fear	tener miedo de, temer
+to advise	aconsejar
+to tell (someone to do something)	decir
+to permit, to let	dejar
+to insist	insistir en
+to request, to ask for	pedir
+to permit	permitir
+to prohibit	prohibir
+to order	mandar
+to suggest	sugerir
+in case	en caso de que
+in order that, so that	para que
+unless	a menos que
+as soon as	luego que
+to thank	agradecer
+to take one’s leave	despedirse
+the embrace	el abrazo
+human warmth	el calor humano
+affection	el cariño
+the farewell	la despedida
+the end	el fin
+the solitude	la soledad
+actually	realmente
+nowadays, at the present time	actualmente
+the ancient	lo antiguo
+the historic	lo histórico
+the best	lo major
+last night	anoche
+yesterday	ayer
+the day before yesterday	anteayer
+ago (when it is used before a period of time in the past)	hace
+(two days) ago	hace (dos días)
+past, last	pasado
+last week	la semana pasada
+last month	el mes pasado
+last year	el año pasado
+to contradict, I contradicted	contradecir, contradije
+to undo, I undid	deshacer, deshice
+to compose, I composed	componer, compuse
+to propose, I proposed	proponer, propuse
+to contain, I contained	contener, contuve
+to detain, I detained	detener, detuve
+to maintain, I maintained	mantener, mantuve
+to drive, I drove	conducir, conduje
+to translate, I translated	traducir, traduje
+to attract, I attracted	atraer, atraje
+to distract, I distracted	distraer, distraje
+to prevent, I prevented	prevenir, previne
+to drown	ahogarse
+to carry, to load	cargar
+to punish	castigar
+to hang	colgar
+to hand in, to deliver	entregar
+to get up early	madrugar
+to hit, to glue	pegar
+to swallow	tragar
+to wander	vagar
+to approach	acercarse
+to pull out, to root out	arrancar
+to put, to place	colocar
+to stick out	destacar
+to justify	justificar
+to chew	mascar
+to fish	pescar
+to publish	publicar
+to take out	sacar
+to beg	suplicar
+to reach, to overtake	alcanzar
+to threaten	amenazar
+to throw, to shoot	lanzar
+to fulfill	realizar
+to pray	rezar
+to bump into	tropezarse (con)
+to fall	caer
+to build	construir
+to destory	destruir
+to believe	creer
+to conclude	concluir
+to contribute	contribuir
+to distribute	distribuir
+to flow	fluir
+to flee	huir
+to include	incluir
+to influence	influir
+to possess	poseer
+to guess	adivinar
+to intend, to try	intentar
+the events	los acontecimientos
+the citizen	el ciudadano
+the key, the code	la clave
+the court	la corte
+the issue	la cuestión
+the rest	los demás
+the dialogue	el diálogo
+the god of Delphi	el dios de Delfos
+the scene	la escena
+the politician	el político
+the prejudice	el prejuicio
+the knowledge	la sabiduría
+the verdict	el veredicto
+fair, just	justo
+main, principal	principal
+wise	sabio
+wise, clever	sagaz
+following	siguiente
+to check out, to verify	averiguar
+I have had (present perfect tense)	he tenido
+to value	valer
+the art	el arte
+Spanish art	el arte español
+fine arts	las bellas artes
+skillful, capable	hábil
+own	propio
+which one?, which ones?	¿cuál?, ¿cuáles?
+when?	¿cuándo?
+how much?, how many?	¿cuánto?, ¿cuántos?
+why?	¿por qué?
+what?	¿qué?
+between	entre
+happy, glad	alegre
+It is five o’clock	Son las cinco
+It is six o’clock	Son las seis
+It is seven o’clock	Son las siete
+It is eight o’clock	Son las ocho
+It is nine o’clock	Son las nueve
+It is ten o’clock	Son las diez
+It is eleven o’clock	Son las once
+It is twelve o’clock	Son las doce
+It is good	Es bueno
+It is difficult	Es difícil
+It is easy	Es fácil
+It is impossible	Es imposible
+It is important	Es importante
+It is bad	Es malo
+It is better	Es mejor
+It is necessary	Es necesario
+It is possible	Es posible
+It is probable	Es probable
+It’s a shame / It’s a pity	Es una lástima
+It is urgent	Es urgente
+okay, fine	está bien
+to be fine	estar bien
+to be with	estar con
+to be in agreement with	estar de acuerdo con
+to be in a good mood	estar de buen genio
+to be in a bad mood	estar de mal genio
+to be standing up	estar de pie
+to be on one’s knees	estar de rodillas
+to be on vacation	estar de vacaciones
+to be returning	estar de vuelta
+to be in danger	estar en peligro
+to be between life and death	estar entre la vida y la muerte
+to be ready	estar listo
+to be bad (adverb)	estar mal
+to be about to	estar para
+to be in favor of	estar por
+to be without	estar sin
+to be good	ser bueno
+to be bad	ser malo
+to be clever	ser listo
+to be all ears	ser todo oídos
+to be	estar
+known	conocido
+constructed	construido
+unbearable	insoportable
+on the top (of a mountain)	en la cumbre
+two days ago	hace dos días
+to acquire	adquirir
+to separate	apartarse
+to warm	calentar
+to quiet	callar
+to grow	crecer
+to detain	detenerse
+had said (past perfect tense)	había dicho
+to begin to	ponerse (a)
+to burn	quemar
+the roosters	los gallos
+together	juntos
+upon (doing something)	al + infinitive
+upon separating	al apartarse
+embracing	abrazando
+guessing	adivinando
+renting	alquilando
+arranging, repairing, fixing	arreglando
+risking	arriesgando
+descending, going down	bajando
+beginning	comenzando
+delivering, handing in	entregando
+waiting	esperando
+scrubbing, washing dishes	fregando
+playing	jugando
+showing	mostrando
+thinking	pensando
+testing, proving	probando
+remembering	recordando
+taking out, getting	sacando
+dreaming	soñando
+trembling	temblando
+flying	volando
+drinking	bebiendo
+eating	comiendo
+running	corriendo
+sewing	cosiendo
+returning (an object)	devolviendo
+doing, making	haciendo
+moving (an object)	moviendo
+losing	perdiendo
+putting	poniendo
+returning	volviendo
+opening	abriendo
+sharing	compartiendo
+deciding	decidiendo
+writing	escribiendo
+insisting	insistiendo
+receiving	recibiendo
+ascending, going up	subiendo
+suffering	sufriendo
+attracting	atrayendo
+falling	cayendo
+believing	creyendo
+reading	leyendo
+possessing	poseyendo
+bringing	trayendo
+constructing, building	construyendo
+contributing	contribuyendo
+destroying	destruyendo
+fleeing	huyendo
+hearing	oyendo
+sleeping	durmiendo
+dying	muriendo
+warning	advirtiendo
+boiling	hirviendo
+lying	mintiendo
+preferring	prefiriendo
+referring	refiriendo
+regretting	sintiendo
+suggesting	sugiriendo
+blessing	bendiciendo
+competing	compitiendo
+obtaining	consiguiendo
+correcting	corrigiendo
+saying, telling	diciendo
+electing	eligiendo
+frying	friendo
+groaning	gimiendo
+measuring	midiendo
+requesting	pidiendo
+repeating	repitiendo
+serving	sirviendo
+smiling	sonriendo
+it to me	me lo, me la
+them to me	me los, me las
+it to you	te lo, te la
+them to you	te los, te las
+it to him, it to her, it to you, it to them	se lo, se la
+them to him, them to her, them to you, them to them	se los, se las
+it to us	nos lo, nos la
+them to us	nos los, nos las
+to become aware	enterarse
+to be seated	estar sentado
+to go (compared with ir, irse expresses more immediacy)	irse
+to put makeup on	maquillarse
+one notices	se nota
+one sees	se ve
+chess	el ajedrez
+the lipstick	el colorete
+the fan	el fanático
+hour after hour	hora tras hora
+to recuperate	recuperarse
+to retire	retirarse
+to sob	sollozar
+to let (do something)	dejar + infinitive
+to carry someone or something away	llevárselo
+the stretcher	la camilla
+the cold	el catarro
+the flu	la gripe
+pneumonia	la pulmonía
+relieved	aliviado
+desolate	desolado
+hers (refers to her hand)	la suya
+son of mine (gives more emphasis than mi hijo (my son))	hijo mío
+to annul	anular
+to pull, to root out	arrancar
+to load	cargar
+to place	colocar
+to be ignorant of	ignorar
+to succeed in	lograr
+to pay for	pagar
+to underline	subrayar
+to wake up, to brighten	amanecer
+to establish	establecer
+to deserve	merecer
+to be born	nacer
+to obey	obedecer
+to offer	ofrecer
+to seem	parecer
+to belong	pertenecer
+to recognize	reconocer
+to lie down	yacer
+to insert	introducir
+to light up	lucir
+to produce	producir
+to reduce	reducir
+to translate	traducir
+to be pleasing to someone	gustarle a uno
+to fear	temer
+to desire	desear
+to desire, to want	querer
+to doubt	dudar
+not to believe	no creer
+not to think	no pensar
+to examine	examinar
+has resulted (present perfect tense)	ha resultado
+have had (present perfect tense)	he tenido
+to have something to do with	tener que ver con
+the accusation	la acusación
+the assembly	la asamblea
+the defense	la defensa
+the investigation	la investigación
+the judgment	el juicio
+guilty	culpable
+Dance	Baila
+Sing	Canta
+Look	Mira
+Listen	Escucha
+Begin	Empieza
+Think	Piensa
+Eat	Come
+Drink	Bebe
+Read	Lee
+Write	Escribe
+Decide	Decide
+Sleep	Duerme
+Smile	Sonríe
+say	di, (from decir)
+do	haz, (from hacer)
+go	ve, (from ir)
+put	pon, (from poner)
+leave	sal, (from salir)
+be	sé, (from ser)
+have	ten, (from tener)
+come	ven, (from venir)
+Write the letter	Escribe la carta
+Write the letter to me	Escríbeme la carta
+Write it to me	Escríbemela
+Teach the lesson	Enseña la lección
+Teach us the lesson	Enséñanos la lección
+Teach it to us	Enséñanosla
+Lend the money	Presta el dinero
+Lend the money to María	Préstale el dinero a María
+Lend it to her	Préstaselo
+Bring the cookies to your colleagues	Tráeles las galletas a tus colegas
+Bring them to them	Tráeselas
+Give me the frying pan	Dame la sartén
+Give it to me	Dámela
+Tell us the idea	Dinos la idea
+Tell it to us	Dínosla
+Pardon me / Excuse me	Perdóname
+Remember	Acuérdate, (from acordarse)
+Go to bed	Acuéstate, (from acostarse)
+Wake up	Despiértate, (from despertarse)
+Go to sleep	Duérmete, (from dormirse)
+Get up	Levántate, (from levantarse)
+Sit down	Siéntate, (from sentarse)
+Wash your hands	Lávate las manos
+Wash them	Lávatelas
+Take off your shoes	Quítate los zapatos
+Take them off	Quítatelos
+Put on your coat	Ponte el abrigo
+Put it on	Póntelo
+Don’t yell	No grites
+Don’t smoke in my house, please	No fumes en mi casa, por favor
+Don’t play with matches	No juegues con fósforos
+Don’t lie	No mientas
+Don’t run with scissors	No corras con tijeras
+Don’t eat fast food	No comas comida rápida
+Don’t climb the mountain alone	No subas la montaña solo
+Don’t drink that water	No bebas esa agua
+Don’t open the window	No abras la ventana
+Don’t open it	No la abras
+Don’t close the door	No cierres la puerta
+Don’t close it	No la cierres
+Don’t do it	No lo hagas
+Don’t say it to me	No me lo digas
+Don’t bring me the cakes	No me traigas las tortas
+Don’t bring them to me	No me las traigas
+Don’t tell us the same story	No nos cuentes el mismo cuento
+Don’t tell it to us	No nos lo cuentes
+Don’t write a letter to Fred	No le escribas una carta a Federico
+Don’t write it to him	No se la escribas
+Don’t lend them money	No les prestes dinero
+Don’t lend it to them	No se lo prestes
+Don’t give anything to Dorothy	No le des nada a Dorotea
+Don’t get angry	No te enfades
+Don’t go	No te vayas
+Don’t complain	No te quejes
+Don’t be afraid	No te asustes
+Don’t put on your coat in the summer	No te pongas el abrigo en el verano
+Don’t put it on	No te lo pongas
+Don’t take off your hat in the winter	No te quites el sombrero en el invierno
+Don’t take it off	No te lo quites
+Take an aspirin if you have a headache	Tome una aspirina si tiene dolor de cabeza
+Sign here	Firme aquí
+Enter, please	Entre Ud., por favor
+Sing. Dance. Listen to music	Cante. Baile. Escuche música
+Wait	Espere Ud
+Open the window, please	Abra la ventana, por favor
+Eat. Drink	Coma. Beba
+Come to my house at seven o’clock	Venga a mi casa a las siete
+Be careful	Tenga cuidado
+Do your exercises	Haga sus ejercicios
+Don’t take an aspirin	No tome una aspirina
+Don’t enter	No entre Ud
+Don’t eat, don’t drink	No coma, no beba
+Don’t come to my house at seven, but rather at eight	No venga a mi casa a las siete; sino a las ocho
+Buy the house	Compren la casa
+Turn off the light	Apaguen la luz
+Walk	Caminen Uds
+Repeat the sentence, please	Repitan la frase, por favor
+Read the newspaper	Lean el periódico
+Don’t talk	No hablen
+Don’t smoke in the house	No fumen en la casa
+Don’t leave	No salgan
+Don’t turn on the light	No prendan la luz
+Don’t put your clothes on the floor	No pongan su ropa en el piso
+Tell. Tell me. Tell it to me	Diga. Dígame. Dígamelo
+Listen to me	Escúcheme
+Kiss her	Bésela
+Sit down, please	Siéntese Ud
+Serve the dessert, please	Sirva el postre, por favor
+Serve it	Sírvalo
+Believe me	Créame
+Help her	Ayúdenla
+Give them their money	Denles su dinero
+Wait for me, please	Espérenme, por favor
+Stay	Quédense
+Teach us the idea. Teach it to us	Enséñennos la idea. Enséñennosla
+Don’t bring me water	No me traiga agua
+Don’t say anything to anybody	No le diga nada a nadie
+Don’t wait for us	No nos espere
+Don’t fall down	No se caiga
+Don’t despair	No se desespere
+Don’t worry	No se preocupe
+Don’t touch it	No lo toquen
+Don’t laugh	No se rían
+to hold back laughter	aguantar la risa
+to turn	doblar
+to relate	relatar
+town hall	el ayuntamiento
+the trail	la pista
+sweaty	sudado
+Let’s sing. Let’s dance	Cantemos. Bailemos
+Let’s wait a moment	Esperemos un momento
+Let’s have coffee	Tomemos un café
+Let’s begin the lesson	Empecemos la lección
+Let’s leave now	Salgamos ahora
+Let’s open the book	Abramos el libro
+Let’s read this chapter in class	Leamos este capítulo en clase
+Let’s tell the truth	Digamos la verdad
+Let’s tell it	Digámosla
+Let’s do the homework	Hagamos la tarea
+Let’s do it	Hagámosla
+Let’s bring flowers to the teacher	Traigámosle las flores al maestro
+Let’s kiss the children	Besemos a los niños
+Let’s kiss them	Besémoslos
+Let’s cross the street	Crucemos la calle
+Let’s cross it	Crucémosla
+Let’s not smoke	No fumemos
+Let’s not say anything to the doctor	No le digamos nada al doctor
+Let’s not buy them anything	No les compremos nada
+Let’s not go to bed late	No nos acostemos tarde
+Let’s go	Vámonos
+Let’s sit down	Sentémonos
+Let’s go to bed	Acostémonos
+Let’s take a shower	Duchémonos
+Let’s get up	Levantémonos
+She wants a dog. Let’s buy it for her	Ella quiere un perro. Comprémoselo
+Gloria needs our help. Let’s give it to her	Gloria necesita nuestra ayuda. Démosela
+Let’s warn the others	Advirtamos a los otros
+Let’s repeat the question	Repitamos la pregunta
+Let’s serve supper	Sirvamos la cena
+Let’s follow the signs	Sigamos las señales
+Let’s go to sleep now. It’s already late	Durmámonos ahora. Ya es tarde
+Go	Id
+Leave	Salid
+Come	Venid
+Tell	Decid
+Read the book. Read it	Leed el libro. Leedlo
+Close the door. Close it	Cerrad la puerta. Cerradla
+Open the window. Open it	Abrid la ventana. Abridla
+Have breakfast. Bathe	Desayunaos. Bañaos
+Put on your jacket. Put it on	Poneos la chaqueta. Ponéosla
+Have a good time on your vacation	Divertíos en vuestras vacaciones
+Don’t sing that song	No cantéis esa canción
+Don’t dance here	No bailéis aquí
+Don’t eat this fish	No comáis este pescado
+Don’t eat it	No lo comáis
+Don’t drink the water	No bebáis el agua
+Don’t drink it	No la bebáis
+Don’t bring the package to Susan	No le traigáis el paquete a Susana
+Don’t bring it to her	No se lo tragáis
+Don’t close that door	No cerréis aquella puerta
+Don’t sit down in this broken chair	No os sentéis en esta silla rota
+Don’t fall	No os caigáis
+Don’t die	No os muráis
+Don’t correct me	No me corrijáis
+Don’t repeat your idea	No repitáis vuestra idea
+Don’t follow a bad leader	No sigáis a un mal líder
+to hide	esconderse
+to mumble, to whisper	murmurar
+the disguise	el disfraz
+my daughter	m’hija
+small group	grupito
+dear girl	niñita
+trick or treat (from the sound of English trick or treat)	triqui triqui
+this	este (m.) | esta (f.)
+these	estos (m.) | estas (f.)
+that	ese (m.) | esa (f.)
+those	esos (m.) | esas (f.)
+that (over there)	aquel (m.) | aquella (f.)
+those (over there)	aquellos (m.) | aquellas (f.)
+this one	éste (m.) | ésta (f.)
+these (ones)	éstos (m.) | éstas (f.)
+that one	ése (m.) | ésa (f.)
+those (ones)	ésos (m.) | ésas (f.)
+that one (over there)	aquél (m.) | aquélla (f.)
+to act	actuar
+to forget (by accident)	olvidarse
+to take a walk, to stroll	pasear
+to lose (by accident)	perderse
+with himself	consigo
+as soon as possible	lo antes posible
+the most possible	lo más posible
+the fastest possible	lo más pronto posible
+the least possible	lo menos posible
+to keep	aguardar
+to have been (present perfect tense)	haber sido
+to suspect	sospechar
+to tempt	tentar
+the fright	el espanto
+the sorrow	la pesadumbre
+the clusters / bunches	los racimos
+the bouquets	los ramos
+the path	el rumbo
+hardly	apenas
+without direction	sin rumbo
+rented	alquilado, (from alquilar)
+squeezed, tightened	apretado, (from apretar)
+increased, augmented	aumentado, (from aumentar)
+erased	borrado, (from borrar)
+disappointed	decepcionado, (from decepcionar)
+pushed	empujado, (from empujar)
+parked	estacionado, (from estacionar)
+been	estado, (from estar)
+arrived	llegado, (from llegar)
+dialed, marked	marcado, (from marcar)
+taken	tomado, (from tomar)
+used	usado, (from usar)
+traveled	viajado, (from viajar)
+drunk	bebido, (from beber)
+eaten	comido, (from comer)
+understood	entendido, (from entender)
+lost	perdido, (from perder)
+twisted	torcido, (from torcer)
+warned	advertido, (from advertir)
+added	añadido, (from añadir)
+converted	convertido, (from convertir)
+slept	dormido, (from dormir)
+boiled	hervido, (from hervir)
+gone	ido, (from ir)
+pressed	oprimido, (from oprimir)
+received	recibido, (from recibir)
+attracted	atraído, (from atraer)
+fallen	caído, (from caer)
+believed	creído, (from creer)
+read	leído, (from leer)
+heard	oído, (from oír)
+brought	traído, (from traer)
+destroyed	destruido, (from destruir)
+fled	huido, (from huir)
+opened	abierto, (from abrir)
+covered	cubierto, (from cubrir)
+told, said	dicho, (from decir)
+written	escrito, (from escribir)
+fried	frito, (from freír)
+done	hecho, (from hacer)
+died	muerto, (from morir)
+rotted	podrido, (from pudrir)
+seen	visto, (from ver)
+returned	vuelto, (from volver)
+described	descrito, (from describir)
+discovered	descubierto, (from descubrir)
+returned (an object)	devuelto, (from devolver)
+dissolved	disuelto, (from disolver)
+wrapped	envuelto, (from envolver)
+opposed	opuesto, (from oponer)
+resolved	resuelto, (from resolver)
+to feel old	estar viejo
+to become involved	meterse
+to skate	patinar
+to fight	pelear
+the lease	el contrato de arrendamiento
+the tenant	el inquilino
+the doorman	el portero
+the superintendent	el superintendente
+pretty and intelligent	bonita e inteligente
+daily	cotidiano
+red headed	pelirrojo
+every other year	año de por medio
+to go well / badly for someone	cogerle bien / mal a alguien
+let’s say	digamos
+to struggle	luchar
+to dream about	soñar con
+to try to	tratar de
+the nightmare	la pesadilla
+the fish (sing. and pl.)	el pez, los peces
+the shark	el tiburón
+wide-awake	despierto
+exhausted	exhausto
+What could it be?	¿qué será?
+the preferred restaurant	el restaurante preferido
+the lost telephone	el teléfono perdido
+the rotten eggs	los huevos podridos
+the known enemy	el enemigo conocido
+the closed window	la ventana cerrada
+the open(ed) doors	las puertas abiertas
+I am tired	Estoy cansada
+Are you dressed?	¿Estás vestido?
+The bathroom is occupied	El baño está ocupado
+The table is set	La mesa está puesta
+The television set is on	El televisor está prendido
+We are angry	Estamos enojados
+We are seated	Estamos sentados
+You are mistaken	Uds. están equivocados
+The workers are worried	Los trabajadores están preocupados
+to hurry	apresurarse
+to make one’s way, to direct oneself	dirigirse
+came	viniera
+to take care of, to care for	cuidar
+to vote	votar
+the lover	el amante
+the amnesiac	el amnésico
+the cripple, the lame person	el cojo
+the glutton	el glotón
+the insomniac	el insomne
+the juggler	el juglar
+the future	el porvenir
+to learn by heart, to memorize	aprender de memoria
+to copy	copiar
+to get hurt	lesionarse
+to dare (to)	atreverse (a)
+to snorkel, to skin dive	bucear
+to sigh	suspirar
+the coat	el abrigo
+the robe	la bata
+the boots	las botas
+the socks	los calcetines
+the vest	el chaleco
+the jacket	la chaqueta
+the skirt	la falda
+the raincoat	el impermeable
+the edge, the border	el lindero
+the big suitcase	el maletón
+the nut, the nuts	la nuez, las nueces
+the pants	los pantalones
+the umbrella	el paraguas
+the frog	la rana
+the king	el rey
+the bathing suit	el traje de baño
+the last time	la última vez
+outside (of)	fuera de
+outside (my window)	más allá de (mi ventana)
+to board	abordar
+to convince	convencer
+to get along (well)	llevarse (bien)
+the hurricane	el huracán
+the waves	las olas
+the neighborhood	el vecindario
+twinkling	centelleante
+unquiet, agitated	inquieto
+seasick	mareado
+and indecisive	e indecisa
+round-trip ticket	el pasaje de ida y vuelta
+to find out, to verify	averiguar
+to become informed	enterarse
+to climb	escalar
+to excavate, to dig	excavar
+to suppose	suponer
+to zigzag	zigzaguear
+to combine	combinar
+to get drunk	emborracharse
+to bake	hornear
+to baste	lardear
+to have to	tocarle (a uno)
+the olive	la aceituna
+the squid	los calamares
+the onion	la cebolla
+the sausage	el chorizo
+the pork chop	la chuleta
+gluttony	la glotonería
+the peas	los guisantes
+the ham	el jamón
+the string bean	la judía verde
+the pound	la libra
+the apple	la manzana
+the shellfish	el marisco
+the mussel	el mejillón
+the traditional rice dish of Spain	la paella
+the raisin	la pasa
+the pumpkin pie	el pastel de calabaza
+the duck	el pato
+the turkey	el pavo
+the fish	el pescado
+the main course	el plato fuerte
+the roast chicken	el pollo asado
+the eggnog	el ponche de huevo
+the cheese	el queso
+the vegetables	las verduras
+cloudy	nublado
+perhaps	tal vez
+by dint of	a fuerza de
+at the same time	a la vez
+in the distance	a lo lejos
+probably	a lo mejor
+on foot	a pie
+at the beginning of	a principios de
+across	a través de
+in the open air	al aire libre
+at the beginning, early on	al principio
+inside out	al revés
+in a good mood	de buen humor
+willingly	de buena gana
+by day	de día
+in this way	de esta manera
+from now on	de hoy en adelante
+in a bad mood	de mal humor
+unwillingly	de mala gana
+by no means	de ninguna manera
+by night	de noche
+standing	de pie
+suddenly	de pronto
+really?	¿de veras?
+every other day / week / month / year	día / semana / mes / año de por medio
+on the other hand	en cambio
+in regard to	en cuanto a
+in fact, as a matter of fact	en efecto
+nowhere, not anywhere	por ninguna parte
+to have a (head)ache	tener dolor de (cabeza)
+to take the blame, to be at fault	tener la culpa
+a to have the floor	tener la palabra
+to look bad	tener mala cara
+to be afraid of, to have fear of	tener miedo de
+to have a lot / a little / something / nothing to do	tener mucho / poco / algo / nada que hacer
+to take someone for, to consider someone to be	tener por
+to be lucky	tener suerte
+to lead to (places)	dar a
+to run into	dar con
+to feed	dar de comer
+to shout	dar gritos
+to face	dar la cara
+to strike the hour	dar la hora
+to give thanks	dar las gracias
+to give a hug, to embrace	dar un abrazo
+to shake hands	darse la mano
+to give up	darse por vencido
+to miss (a person or place)	echar de menos
+to flatter	echar flores
+to blame	echar la culpa
+to burst out crying	echarse a llorar
+it’s good / bad weather	hace buen / mal tiempo
+it’s hot / warm	hace calor
+it’s cold	hace frío
+it’s windy	hace viento
+to pay attention to	hacer caso a
+to harm	hacer daño a
+to do good / bad	hacer el bien / el mal
+to be lacking	hacer falta
+to play a part	hacer un papel
+to take a trip	hacer un viaje
+to become	hacerse + profession
+to become late	hacerse tarde
+there is space	hay cupo
+it is necessary	hay que
+to carry out (a project, for example)	llevar a cabo
+to take the opposite point of view	llevar la contraria
+to carry (something) away	llevarse (algo)
+to get along well / badly with	llevarse bien / mal con
+to put one’s foot in one’s mouth	meter la pata
+to snoop around	meter las narices
+to meddle	meterse en donde no le llaman
+to heap praise on someone	poner a alguien por las nubes
+to make clear	poner en claro
+to put in doubt	poner en duda
+to make look ridiculous	poner en ridículo
+to put the cards on the table	poner las cartas sobre la mesa
+to sue	poner pleito
+to start to	ponerse a
+to be left astonished	quedar boquiabierto
+to agree on	quedar en
+to be left penniless	quedarse con el día y la noche
+to take seriously	tomar en serio
+to pull someone’s leg	tomarle el pelo
+to take it easy	tomárselo con calma
+to absolve	absolver
+to have just (+ infinitive)	acabar de + infinitive
+to be accustomed	acostumbrar
+to warn	advertir
+to concede	conceder
+to deceive oneself	engañarse
+to found	fundar
+to impede	impeder
+to mean, to signify	significar
+chance	el azar
+the army	el ejército
+the hope	la esperanza
+the hero	el héroe
+the place, the destination	el paradero
+the tomb, the grave	la tumba
+since	puesto que
